@@ -1,0 +1,8 @@
+java
+42
+-3.5
+programming
+0
+1000.01
+test
+123
